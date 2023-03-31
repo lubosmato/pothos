@@ -43,7 +43,7 @@
   },
   "peerDependencies": {
     "@pothos/core": "*",
-    "graphql": "16.8.1"
+    "graphql": ">=16.4.0"
   },
   "devDependencies": {
     "@pothos/core": "workspace:*",
